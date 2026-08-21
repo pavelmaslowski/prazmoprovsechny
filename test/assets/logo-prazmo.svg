@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 110" role="img" aria-labelledby="title desc">
+  <title id="title">Pražmo pro všechny</title>
+  <desc id="desc">Stylizovaný dům s tváří a křížem na vrcholu</desc>
+  <g fill="none" stroke="#2d3d91" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 76 31 61V39c0-3 2-5 5-5h5v27l24-15 26 16 10 9v27"/>
+    <path d="m79 62 13-15V28c0-3 2-5 5-5h4v29l22 20"/>
+    <path d="M101 23V6M91 14h20"/>
+    <path d="M29 94c4 10 20 15 42 15s38-5 43-15"/>
+  </g>
+  <g fill="#2d3d91">
+    <rect x="48" y="75" width="13" height="13" rx="4"/>
+    <rect x="72" y="75" width="13" height="13" rx="4"/>
+  </g>
+</svg>
